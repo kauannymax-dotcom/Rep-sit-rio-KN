@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Assuma o Controle do Seu Feed</title>
+</head>
+
+<body>
+
+    <h1>Assuma o Controle do Seu Feed</h1>
+
+    <p>
+        As redes sociais foram projetadas para prender a nossa atenção pelo
+        maior tempo possível. No entanto, é perfeitamente possível treinar o
+        algoritmo a seu favor para transformar o seu feed em um ambiente mais
+        saudável, produtivo e interessante.
+    </p>
+
+    <h2>Principais Riscos da Bolha Digital</h2>
+
+    <ul>
+        <li>Exposição apenas a opiniões iguais às suas (bolha de informação)</li>
+        <li>Aumento da ansiedade por comparação social</li>
+        <li>Vício em rolagem infinita (doomscrolling)</li>
+        <li>Disseminação rápida de notícias falsas</li>
+    </ul>
+
+    <h2>Como "Treinar" o Seu Algoritmo em 5 Etapas</h2>
+
+    <ol>
+        <li>Remova ou silencie contas que produzem conteúdo tóxico ou irrelevante.</li>
+        <li>Use o botão "Não tenho interesse" sempre que surgir algo indesejado.</li>
+        <li>Interaja ativamente apenas nos conteúdos que agregam valor.</li>
+        <li>Pesquise novos temas e perfis diversificados para quebrar a rotina.</li>
+        <li>Defina um limite diário de uso nas configurações do seu celular.</li>
+    </ol>
+
+    <h2>Imagem</h2>
+
+    <img 
+        src="https://images.unsplash.com/photo-1512428559087-560fa5ceab42"
+        alt="Pessoa segurando um smartphone"
+        width="400"
+    >
+
+    <br><br>
+
+    <a href="https://www.google.com/search?q=como+usar+redes+sociais+de+forma+saudavel" target="_blank">
+        <button>Quero saber mais</button>
+    </a>
+
+    <button onclick="alert('Copie o endereço desta página e compartilhe com seus amigos!')">
+        Compartilhar este guia
+    </button>
+
+</body>
+</html>
